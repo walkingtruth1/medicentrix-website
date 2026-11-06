@@ -1,0 +1,9 @@
+{
+  "name": "medicentrix-marketing-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Marketing landing page, not installable software",
+  "scripts": {
+    "archive:images": "node scripts/archive-remote-images.mjs"
+  }
+}
