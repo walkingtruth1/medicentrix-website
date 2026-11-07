@@ -6,9 +6,7 @@
  * The installer is produced from the separate medicentrix-windows-source project.
  */
 window.MEDICENTRIX_SITE_CONFIG = {
-  windowsInstallerUrl: "",
+  windowsInstallerUrl: "https://github.com/walkingtruth1/medicentrix-desktop/releases/download/v0.1.0/MediCentrix-Desktop-Setup-0.1.0.exe",
   windowsVersion: "0.1.0",
-  // Optional public Web3Forms access key; do not configure until the owner
-  // has established the intended subscriber destination and verified delivery.
   web3FormsAccessKey: ""
 };
