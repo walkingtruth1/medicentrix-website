@@ -23,8 +23,14 @@
   container-type: inline-size;
 }
 
+.hero h1 .hero-title-first-line {
+  color: inherit;
+  font-size: min(1em, 9.5cqi);
+  white-space: nowrap;
+}
+
 .hero-title-second-line {
-  font-size: min(1em, 8.8cqi);
+  font-size: min(1em, 11cqi);
   white-space: nowrap;
 }
 
